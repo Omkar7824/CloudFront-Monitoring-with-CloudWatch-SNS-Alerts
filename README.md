@@ -23,7 +23,7 @@ This project demonstrates how to monitor an AWS CloudFront distribution using Am
 
 ## 📸 Screenshots
 
-> Located in the `/screenshots` folder.
+> Located in the `Screenshorts` folder.
 
 - 📌 CloudWatch Metrics Graph
 - 📌 Alarm Setup
