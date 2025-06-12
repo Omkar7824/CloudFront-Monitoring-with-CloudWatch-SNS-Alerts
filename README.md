@@ -12,6 +12,10 @@ This project demonstrates how to monitor an AWS CloudFront distribution using Am
 
 ---
 
+## Network Architecture
+
+![Portfolio Website Digram](Architecture/Architure-digram.png)
+
 ## 📊 What This Setup Monitors
 
 - ✅ `4xxErrorRate`: Tracks client-side errors (e.g., 404).
