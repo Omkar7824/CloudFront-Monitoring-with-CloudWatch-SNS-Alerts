@@ -14,7 +14,7 @@ This project demonstrates how to monitor an AWS CloudFront distribution using Am
 
 ## Network Architecture
 
-![Cloud Watch Monitoring](Architecture/Architecture.png.)
+![CloudFront Architecture Digram](Architecture/Architure-digram.png)
 
 ---
 
